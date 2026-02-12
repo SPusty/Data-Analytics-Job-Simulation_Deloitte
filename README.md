@@ -1,5 +1,5 @@
 # Deloitte Australia – Data Analytics Job Simulation (Forage)
-# February 2026
+February 2026
 ## Overview
 Completed a Deloitte data analytics simulation focused on forensic technology and business insight generation.
 
